@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new cool and functional websites.
 - 🤔 I’m looking for help with ANYTHING :D
 - 💬 Ask me about Finances, C, HTML, CSS, JavaScript and Beatles 😎
-- 📫 How to reach me / contato: <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.linkedin.com/in/luiz-baidum-24475a10a" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank" width="60" height="70"></a>
+- 📫 How to reach me / contato: <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.linkedin.com/in/luiz-baidum-24475a10a" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank" width="80" height="90"></a>
 
 PT-BR:
 - 🔭 Atualmente estou trabalhando como analista administrativo, devido à minha primeira formação.
